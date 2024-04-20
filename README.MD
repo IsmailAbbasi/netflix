@@ -29,7 +29,3 @@ To run this project on your local machine, follow these steps:
 )](https://netflix-clone1-171b8.web.app/)
 
 
-1. Clone this repository:
-
-   ```bash
-   git clone https://github.com/Mohdhussain28/netflix-clone.git
